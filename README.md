@@ -4,6 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelucenajr&label=Profile%20views&color=0e75b6&style=flat" alt="andrelucenajr" /> </p>
 
+<style>
+    html, body, #map {
+      background-color: #06283f;
+      width:100%; 
+      height:100%; 
+      padding: 0; 
+      margin: 0;
+  </style>
+
 - 🌱 I’m currently learning **Python and Django**
 
 <h3 align="left">Connect with me:</h3>
