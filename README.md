@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm André Lucena</h1>
 <h3 align="center">A Software Engineer Studyng from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelucenajr&label=Profile%20views&color=0e75b6&style=flat" alt="andrelucenajr" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python and Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
