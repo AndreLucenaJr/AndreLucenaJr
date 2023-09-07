@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFtybgTzkI/otXXDaKpY49qOauqskOk6w/edit?utm_content=DAFtybgTzkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://www.canva.com/design/DAFtybgTzkI/rmCIi-ITjOHovEBpw_5JZA/watch?utm_content=DAFtybgTzkI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm André Lucena</h1>
 <h3 align="center">A Software Engineer Studyng from Brazil</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
