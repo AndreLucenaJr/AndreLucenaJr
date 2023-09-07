@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Lucena</h1>
 <h3 align="center">A Software Engineer Studyng from Brazil</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/AndreLucenaJr/AndreLucenaJr/assets/133511109/9888edff-97d1-4ad2-a527-1ea67d054a3f)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelucenajr&label=Profile%20views&color=0e75b6&style=flat" alt="andrelucenajr" /> </p>
 
