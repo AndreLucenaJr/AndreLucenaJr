@@ -5,7 +5,7 @@
 </div>
 
  <div align="center">
-  <h1>🖥️ <span style="color: green;">André Lucena</span> - Developer</h1>
+  <h1>🖥️ <span style="color: #00FF00;">André Lucena</span> - Developer</h1>
 </div>
 
  
