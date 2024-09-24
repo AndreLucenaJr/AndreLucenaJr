@@ -2,8 +2,7 @@
  <div align="center">
   <h1>🖥️ André Lucena - Developer</h1>
 </div>
-  <p style="font-size: 36px;">🖥️ André Lucena - Developer</p>
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-lucena) 
