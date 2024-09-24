@@ -1,5 +1,7 @@
 <div align="center">
-  <h2>💫 About Me:</h2>
+ <div align="center">
+  <h1>🖥️ André Lucena - Developer</h1>
+</div>
   <p style="font-size: 36px;">🖥️ André Lucena - Developer</p>
 
 
