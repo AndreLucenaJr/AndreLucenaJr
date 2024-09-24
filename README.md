@@ -24,7 +24,7 @@
 
 ### 
 <div align="center">
-  <img height="150" src="https://i.imgur.com/Os63UKo.gif" />
+  <img height="150" src="https://i.imgur.com/FV3nTJf.gif" />
 </div>
 ###
 
