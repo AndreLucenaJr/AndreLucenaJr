@@ -1,5 +1,6 @@
-# 💫 About Me:
-🖥️ André Lucena - Developer
+<div align="center">
+  <h2>💫 About Me:</h2>
+  <p>🖥️ André Lucena - Developer</p>
 
 
 ## 🌐 Socials:
