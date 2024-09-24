@@ -23,7 +23,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 
-<img align="right" height="150" src="https://i.imgur.com/Os63UKo.gif"  />
+<div align="center">
+  <img height="150" src="https://i.imgur.com/Os63UKo.gif" />
+</div>
 ###
 
 <div align="center">
