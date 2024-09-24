@@ -1,5 +1,4 @@
 <div align="center">
- ## 🌐 Socials:
  <div align="center">
   <h1>🖥️ André Lucena - Developer</h1>
 </div>
