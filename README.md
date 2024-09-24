@@ -20,13 +20,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AndreLucenaJr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 
 <div align="center">
   <img height="150" src="https://i.imgur.com/FV3nTJf.gif" />
 </div>
-###
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
