@@ -23,7 +23,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 
-<img align="right" height="150" src="https://imgflip.com/gif/94h36k"  />
+<img align="right" height="150" src="https://i.imgur.com/Os63UKo.gif"  />
 ###
 
 <div align="center">
