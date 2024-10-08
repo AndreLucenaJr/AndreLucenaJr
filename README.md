@@ -1,8 +1,5 @@
 <div align="center">
 
- <div align="center">
-  <img height="150" src="https://i.imgur.com/FV3nTJf.gif" />
-</div>
 
  <div align="center">
   <h1>🖥️ <span style="color: #00FF00;">André Lucena</span> - Developer</h1>
