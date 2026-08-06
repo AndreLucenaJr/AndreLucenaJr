@@ -68,7 +68,7 @@
 
 ## 🔗 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/andre-lucena" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="André Lucena's LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/andré-lucena" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="André Lucena's LinkedIn"/></a>&nbsp;
   <a href="mailto:andrelucenajr123@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="André Lucena's Email"/></a>
 </p>
 
